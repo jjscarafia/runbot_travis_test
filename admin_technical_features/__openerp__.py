@@ -28,7 +28,7 @@
     'website': 'http://www.savoirfairelinux.com',
     'license': 'AGPL-3',
     'category': 'Administration',
-    'summary': 'Checks the technical features box for admin user.',
+    'summary': 'Checks the technssical features box for admin user.',
     'depends': ['base_import'],
     'external_dependencies': {
         'python': [],
