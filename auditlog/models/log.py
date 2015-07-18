@@ -35,7 +35,7 @@ class auditlog_log(models.Model):
         'res.users', string=u"User")
     method = fields.Char(u"Method", size=64)
     line_ids = fields.One2many(
-        'auditlog.log.line', 'log_id', string=u"Fields updated")
+        'auditlog.log.line', 'log_id', string=u"Fields up daskjdhajksh dakjsdha kjsdhasdated")
 
 
 class auditlog_log_line(models.Model):

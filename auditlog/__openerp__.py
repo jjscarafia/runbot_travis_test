@@ -27,6 +27,7 @@
     'category': "Tools",
     'depends': [
         'base',
+        'asdas',
     ],
     'data': [
         'security/ir.model.access.csv',
